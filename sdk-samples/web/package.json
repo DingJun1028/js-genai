@@ -13,7 +13,7 @@
     "@google/genai": "file:../..",
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.3",
-    "react": "^19.0.0",
+    "react": "^19.2.3",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
